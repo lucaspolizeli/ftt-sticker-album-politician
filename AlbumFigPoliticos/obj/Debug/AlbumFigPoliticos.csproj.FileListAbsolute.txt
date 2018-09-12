@@ -1,0 +1,117 @@
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+Z:\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrAlbumComp.resources
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+E:\FTT\3semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrAlbumComp.resources
+C:\Users\CarlosAugusto\Documents\FTT - Faculdade de Tecnologia Termomecânica\3 semestre\album_V1\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrCadastroFigurinhas.resources
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrAlbumComp.resources
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrCadastroFigurinhas.resources
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+Z:\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrAlbumComp.resources
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrCadastroFigurinhas.resources
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrPacoteFig.resources
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.Cache
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+E:\FTT\3semestre\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Form1.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojResolveAssemblyReference.cache
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrAlbumComp.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrCadastroFigurinhas.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.cache
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CopyComplete
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrLogin.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrCadastro.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrSobre.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrInicio.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrListar.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrCadastroPergunta.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrPerguntas.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrVerFiguraPolitico.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrVerFiguraPartido.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe.config
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.exe
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\AlbumFigPoliticos.pdb
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.dll
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\bin\Debug\Newtonsoft.Json.xml
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csprojAssemblyReference.cache
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrCadastro.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrCadastroPergunta.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrInicio.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrAlbumComp.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.FrCadastroFigurinhas.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrListar.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrLogin.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Properties.Resources.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrPerguntas.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrSobre.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrVerFiguraPartido.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.Views.FrVerFiguraPolitico.resources
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.GenerateResource.cache
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CoreCompileInputs.cache
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.csproj.CopyComplete
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.exe
+D:\Lucas Polizeli\Faculdade\3° SEMESTRE\POO\AlbumFigPoliticos\AlbumFigPoliticos\obj\Debug\AlbumFigPoliticos.pdb

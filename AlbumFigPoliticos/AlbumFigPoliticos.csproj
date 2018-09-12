@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10CE2CF4-8B4D-40EA-BD8B-BDEDE1E1961A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AlbumFigPoliticos</RootNamespace>
+    <AssemblyName>AlbumFigPoliticos</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Estáticas\Cache.cs" />
+    <Compile Include="Classes\Perguntas.cs" />
+    <Compile Include="Classes\Politico.cs" />
+    <Compile Include="Classes\Figurinha.cs" />
+    <Compile Include="Classes\Usuario.cs" />
+    <Compile Include="Enumeradores\EnumCargo.cs" />
+    <Compile Include="Enumeradores\EnumJuiz.cs" />
+    <Compile Include="Listas\Extensions\IEnumerableExtensions.cs" />
+    <Compile Include="Listas\Generics\LinkedList.cs" />
+    <Compile Include="Listas\Generics\Node.cs" />
+    <Compile Include="Ordenação\BubleSort.cs" />
+    <Compile Include="Views\FrCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrCadastro.Designer.cs">
+      <DependentUpon>FrCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrCadastroPergunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrCadastroPergunta.Designer.cs">
+      <DependentUpon>FrCadastroPergunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrInicio.Designer.cs">
+      <DependentUpon>FrInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrAlbumComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrAlbumComp.Designer.cs">
+      <DependentUpon>FrAlbumComp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrCadastroFigurinhas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrCadastroFigurinhas.Designer.cs">
+      <DependentUpon>FrCadastroFigurinhas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrListar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrListar.Designer.cs">
+      <DependentUpon>FrListar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrLogin.Designer.cs">
+      <DependentUpon>FrLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Partido.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\FrPerguntas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrPerguntas.Designer.cs">
+      <DependentUpon>FrPerguntas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrSobre.Designer.cs">
+      <DependentUpon>FrSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrVerFiguraPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrVerFiguraPartido.Designer.cs">
+      <DependentUpon>FrVerFiguraPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrVerFiguraPolitico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrVerFiguraPolitico.Designer.cs">
+      <DependentUpon>FrVerFiguraPolitico.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\FrCadastro.resx">
+      <DependentUpon>FrCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrCadastroPergunta.resx">
+      <DependentUpon>FrCadastroPergunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrInicio.resx">
+      <DependentUpon>FrInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrAlbumComp.resx">
+      <DependentUpon>FrAlbumComp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrCadastroFigurinhas.resx">
+      <DependentUpon>FrCadastroFigurinhas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrListar.resx">
+      <DependentUpon>FrListar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrLogin.resx">
+      <DependentUpon>FrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\FrPerguntas.resx">
+      <DependentUpon>FrPerguntas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrSobre.resx">
+      <DependentUpon>FrSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrVerFiguraPartido.resx">
+      <DependentUpon>FrVerFiguraPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrVerFiguraPolitico.resx">
+      <DependentUpon>FrVerFiguraPolitico.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgInicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Figuras\fig1.png" />
+    <Content Include="Resources\Figuras\fig10.png" />
+    <Content Include="Resources\Figuras\fig11.png" />
+    <Content Include="Resources\Figuras\fig12.png" />
+    <Content Include="Resources\Figuras\fig13.png" />
+    <Content Include="Resources\Figuras\fig14.png" />
+    <Content Include="Resources\Figuras\fig15.png" />
+    <Content Include="Resources\Figuras\fig16.png" />
+    <Content Include="Resources\Figuras\fig17.png" />
+    <Content Include="Resources\Figuras\fig18.png" />
+    <Content Include="Resources\Figuras\fig19.png" />
+    <Content Include="Resources\Figuras\fig2.png" />
+    <Content Include="Resources\Figuras\fig20.png" />
+    <Content Include="Resources\Figuras\fig21.png" />
+    <Content Include="Resources\Figuras\fig22.png" />
+    <Content Include="Resources\Figuras\fig23.png" />
+    <Content Include="Resources\Figuras\fig24.png" />
+    <Content Include="Resources\Figuras\fig25.png" />
+    <Content Include="Resources\Figuras\fig26.png" />
+    <Content Include="Resources\Figuras\fig27.png" />
+    <Content Include="Resources\Figuras\fig28.png" />
+    <Content Include="Resources\Figuras\fig29.png" />
+    <Content Include="Resources\Figuras\fig3.png" />
+    <Content Include="Resources\Figuras\fig30.png" />
+    <Content Include="Resources\Figuras\fig31.png" />
+    <Content Include="Resources\Figuras\fig32.png" />
+    <Content Include="Resources\Figuras\fig33.png" />
+    <Content Include="Resources\Figuras\fig34.png" />
+    <Content Include="Resources\Figuras\fig35.png" />
+    <Content Include="Resources\Figuras\fig36.png" />
+    <Content Include="Resources\Figuras\fig4.png" />
+    <Content Include="Resources\Figuras\fig5.png" />
+    <Content Include="Resources\Figuras\fig6.png" />
+    <Content Include="Resources\Figuras\fig7.png" />
+    <Content Include="Resources\Figuras\fig8.png" />
+    <Content Include="Resources\Figuras\fig9.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

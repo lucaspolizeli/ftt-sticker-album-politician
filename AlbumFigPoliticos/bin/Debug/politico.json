@@ -1,0 +1,53 @@
+[
+  {
+    "Cargo": "Vereador",
+    "MilhoesLavados": 12312.0,
+    "Partido": {
+      "JuizConfianca": "Lewandowski",
+      "Sigla": "PSDB",
+      "Financiador": "Petrobras",
+      "Nome": "Partido Social Democrata",
+      "Codigo": 200,
+      "NumeroChapa": 45,
+      "Imagem": "\\img\\200.png"
+    },
+    "Nome": "qweqwe",
+    "Codigo": 1234,
+    "NumeroChapa": 12,
+    "Imagem": "\\img\\1234.png"
+  },
+  {
+    "Cargo": "Vereador",
+    "MilhoesLavados": 2563.0,
+    "Partido": {
+      "JuizConfianca": "Gilmar",
+      "Sigla": "PT",
+      "Financiador": "Banco Schain",
+      "Nome": "Partido dos Trabalhadores",
+      "Codigo": 100,
+      "NumeroChapa": 13,
+      "Imagem": "\\img\\100.png"
+    },
+    "Nome": "Ananaias",
+    "Codigo": 2,
+    "NumeroChapa": 14,
+    "Imagem": "\\img\\2.png"
+  },
+  {
+    "Cargo": "Deputado",
+    "MilhoesLavados": 25800.0,
+    "Partido": {
+      "JuizConfianca": "Gilmar",
+      "Sigla": "PT",
+      "Financiador": "Banco Schain",
+      "Nome": "Partido dos Trabalhadores",
+      "Codigo": 100,
+      "NumeroChapa": 13,
+      "Imagem": "\\img\\100.png"
+    },
+    "Nome": "João Pedro",
+    "Codigo": 25,
+    "NumeroChapa": 13,
+    "Imagem": "\\img\\25.png"
+  }
+]

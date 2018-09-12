@@ -1,0 +1,20 @@
+[
+  {
+    "JuizConfianca": "Gilmar",
+    "Sigla": "PT",
+    "Financiador": "Banco Schain",
+    "Nome": "Partido dos Trabalhadores",
+    "Codigo": 100,
+    "NumeroChapa": 13,
+    "Imagem": "\\img\\100.png"
+  },
+  {
+    "JuizConfianca": "Lewandowski",
+    "Sigla": "PSDB",
+    "Financiador": "Petrobras",
+    "Nome": "Partido Social Democrata",
+    "Codigo": 200,
+    "NumeroChapa": 45,
+    "Imagem": "\\img\\200.png"
+  }
+]
